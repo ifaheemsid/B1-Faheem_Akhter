@@ -31,10 +31,15 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 
 ## Screenshots
+1. When you run and open the app;ication
 ![1](https://github.com/ifaheemsid/Login-Page/assets/68496070/94d7877d-c304-4f3c-a821-38caf6e45cc7)
+
+2. if you will give wrong id and password then validators going to give your error ->
 ![2](https://github.com/ifaheemsid/Login-Page/assets/68496070/9c520df2-98c7-4715-867b-2444aa79915d)
 ![3](https://github.com/ifaheemsid/Login-Page/assets/68496070/23c890d6-1f9e-4e5e-b312-23fed9d85a6c)
 ![4](https://github.com/ifaheemsid/Login-Page/assets/68496070/5051e9fa-28ae-4a4f-9c39-9cd0af5966d5)
+
+3. after successfull completeing validation and login then it will redirect to the login page ->
 ![5](https://github.com/ifaheemsid/Login-Page/assets/68496070/baccf14d-49ac-4789-b255-65b5b706ef4b)
 ![6](https://github.com/ifaheemsid/Login-Page/assets/68496070/079642e7-9a67-4034-94d0-b18989a2babc)
 ![7](https://github.com/ifaheemsid/Login-Page/assets/68496070/24770a68-05ac-4f21-bcd3-8fd5e06e920f)
