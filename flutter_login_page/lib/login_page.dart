@@ -77,7 +77,7 @@ class _LoginPageState extends State<LoginPage> {
               padding: EdgeInsets.only(left: 35,top: 130),
               child: Text(
                     'Welcome to LoginPage',
-                     style: TextStyle(color: const Color.fromARGB(255, 213, 39, 39),fontSize: 33 ),
+                     style: TextStyle(color: const Color.fromARGB(255, 161, 232, 128),fontSize: 33 ),
                      ),
             ),
             SizedBox(
