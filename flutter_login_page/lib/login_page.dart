@@ -80,6 +80,9 @@ class _LoginPageState extends State<LoginPage> {
                      style: TextStyle(color: const Color.fromARGB(255, 213, 39, 39),fontSize: 33 ),
                      ),
             ),
+            SizedBox(
+              height: 30
+            ),
             TextFormField(
               controller: _emailController,
               decoration: const InputDecoration(
